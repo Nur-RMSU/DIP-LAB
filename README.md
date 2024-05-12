@@ -29,7 +29,8 @@ The Super Resolution GAN contains two parts Generator and Discriminator where ge
 ## Loss Function
 1. The SRGAN uses perceptual loss function
 2. perpetual loss = content loss + adversarial loss
-![](https://github.com/Nur-RMSU/DIP-LAB/blob/main/Images/SRGAN-660x442-removebg-preview.png?raw=true)
+![](![image](https://github.com/Nur-RMSU/DIP-LAB/assets/129540488/00e6483e-817d-4ca9-affd-51b217f8df6c)
+)
 
 ## Dataset
 Dataset
