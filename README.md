@@ -45,9 +45,9 @@ During the project we use two type of Image Low Resolution and High Resolution. 
 
 
 ## Result
-![](https://github.com/Nur-RMSU/DIP-LAB/blob/main/Images/SRGAN-660x442-removebg-preview.png?raw=true)
-![](https://github.com/Nur-RMSU/DIP-LAB/blob/main/Images/SRGAN-660x442-removebg-preview.png?raw=true)
-![](https://github.com/Nur-RMSU/DIP-LAB/blob/main/Images/SRGAN-660x442-removebg-preview.png?raw=true)
+![](https://github.com/Nur-RMSU/DIP-LAB/blob/main/Images/5.png?raw=true)
+![](https://github.com/Nur-RMSU/DIP-LAB/blob/main/Images/50.png?raw=true)
+![](https://github.com/Nur-RMSU/DIP-LAB/blob/main/Images/150.png?raw=true)
 ## Limitations
 1. Computational Complexity
 2. Model Size
