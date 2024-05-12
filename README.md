@@ -24,7 +24,7 @@ The Super Resolution GAN contains two parts Generator and Discriminator where ge
 2. Within the residual block, two convolutional layers are used, with small 3×3 kernels and 64 feature maps followed by batch-normalization layers and ParametricReLU.
 3. In Discriminator Network, there are eight convolutional layers with of 3×3 filter kernels, increasing by a factor of 2 from 64 to 512 kernels. 
 4. Strided convolutions are used to reduce the image resolution each time the number of features is doubled.
-![](https://github.com/Nur-RMSU/DIP-LAB/blob/main/Images/SRGAN-660x442-removebg-preview.png?raw=true)
+![](https://github.com/Nur-RMSU/DIP-LAB/blob/main/Images/Architecture-of-SRGAN-network-diagram-of-generator-and-discriminator-with%20(1).jpg?raw=true)
 
 ## Loss Function
 1. The SRGAN uses perceptual loss function
