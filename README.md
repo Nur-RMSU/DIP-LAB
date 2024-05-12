@@ -17,16 +17,19 @@ SRGAN (Super-Resolution Generative Adversarial Network) is a deep learning techn
 ![](https://github.com/Nur-RMSU/DIP-LAB/blob/main/Images/Picture2.jpg?raw=true)
 ##  Architecture of SRGAN:
 The Super Resolution GAN contains two parts Generator and Discriminator where generator produces some data based on the probability distribution and discriminator tries to guess weather data coming from input dataset or generator.  Generator than tries to optimize the generated data so that it can fool the discriminator.
+![](https://github.com/Nur-RMSU/DIP-LAB/blob/main/Images/SRGAN-660x442-removebg-preview.png?raw=true)
 
 ## About Generator and Discriminator:
 1. Total 16 residual blocks were used in Generator Network
 2. Within the residual block, two convolutional layers are used, with small 3×3 kernels and 64 feature maps followed by batch-normalization layers and ParametricReLU.
 3. In Discriminator Network, there are eight convolutional layers with of 3×3 filter kernels, increasing by a factor of 2 from 64 to 512 kernels. 
 4. Strided convolutions are used to reduce the image resolution each time the number of features is doubled.
+![](https://github.com/Nur-RMSU/DIP-LAB/blob/main/Images/SRGAN-660x442-removebg-preview.png?raw=true)
 
 ## Loss Function
 1. The SRGAN uses perceptual loss function
 2. perpetual loss = content loss + adversarial loss
+![](https://github.com/Nur-RMSU/DIP-LAB/blob/main/Images/SRGAN-660x442-removebg-preview.png?raw=true)
 
 ## Dataset
 Dataset
@@ -42,6 +45,9 @@ During the project we use two type of Image Low Resolution and High Resolution. 
 
 
 ## Result
+![](https://github.com/Nur-RMSU/DIP-LAB/blob/main/Images/SRGAN-660x442-removebg-preview.png?raw=true)
+![](https://github.com/Nur-RMSU/DIP-LAB/blob/main/Images/SRGAN-660x442-removebg-preview.png?raw=true)
+![](https://github.com/Nur-RMSU/DIP-LAB/blob/main/Images/SRGAN-660x442-removebg-preview.png?raw=true)
 ## Limitations
 1. Computational Complexity
 2. Model Size
