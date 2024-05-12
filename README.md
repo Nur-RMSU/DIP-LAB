@@ -14,7 +14,7 @@ SRGAN (Super-Resolution Generative Adversarial Network) is a deep learning techn
 4. Achieve state-of-the-art performance in super-resolution tasks across diverse domains.
 5. Provide an efficient solution for enhancing image resolution while preserving vital visual details.
 ## Methodology/ Working Procedure
-hhhhhhhhhhhh
+![](https://github.com/Nur-RMSU/DIP-LAB/blob/main/Images/Picture2.jpg?raw=true)
 ##  Architecture of SRGAN:
 The Super Resolution GAN contains two parts Generator and Discriminator where generator produces some data based on the probability distribution and discriminator tries to guess weather data coming from input dataset or generator.  Generator than tries to optimize the generated data so that it can fool the discriminator.
 
